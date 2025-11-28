@@ -165,7 +165,7 @@
 
             <div class="buttons-container">
                 <button class="btn-continue" onclick="continueToLove()">أكيد أستمر 🌹</button>
-                <button class="btn-no" id="noBtn1" onmouseover="moveButton('noBtn1')" ontouchstart="moveButton('noBtn1')" onclick="moveButton('noBtn1')">لا ما أريد 😒</button>
+                <button class="btn-no" id="noBtn1" onmouseover="moveButton('noBtn1')" ontouchstart="moveButton('noBtn1')" onclick="moveButton('noBtn1')">لا ما ماريد ولي متحرش 😒</button>
             </div>
         </div>
 
